@@ -3894,6 +3894,25 @@
     "official": false
   },
   {
+    "name": "Cooper Email",
+    "url": "https://cooperemail.com/docs/mcp",
+    "description": "Gives AI agents their own email inbox: send, read, reply, and wait for the next message or a sign-up code over a hosted MCP server. API key or OAuth; free tier.",
+    "category": "communication-and-productivity",
+    "language": "TypeScript",
+    "provider": "Cooper Email",
+    "tags": [
+      "email",
+      "inbox",
+      "agents",
+      "otp",
+      "remote"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://cooperemail.com/mcp"
+    }
+  },
+  {
     "name": "Microsoft Teams MCP Server",
     "url": "https://github.com/InditexTech/mcp-teams-server",
     "description": "Interact with Microsoft Teams channels, messages, and meetings.",
