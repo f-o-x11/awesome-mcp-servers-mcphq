@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Full Markdown catalog of 423 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
+> Full Markdown catalog of 424 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
 
 This file lists every server in the catalog. Descriptions are the catalog's one-sentence summaries, not the upstream README. `Official: yes` means the MCP project or the named provider backs the server. Remote endpoints are included only when the catalog lists an SSE or streamable HTTP URL.
 
@@ -2407,6 +2407,18 @@ Run and manage your Aeon autonomous agent from chat: skills, runs, memory, strat
 - Tags: agents, automation, github, remote, oauth
 - Category: AI, Agents, and Memory
 - Streamable HTTP endpoint: https://www.aeon.fun/connect/mcp
+
+### Agent Coach
+
+Coach and security-scanned skill library for AI agents: register, set one goal, get matched skills, MCP servers and repos, check in daily, and search the vetted library.
+
+- URL: https://upskill.coach/docs/mcp
+- Language: TypeScript
+- Provider: Avatar 8 LLC
+- Official: yes
+- Tags: agents, skills, security-scan, coaching, remote
+- Category: AI, Agents, and Memory
+- Streamable HTTP endpoint: https://upskill.coach/mcp
 
 ### Agent Commons
 
